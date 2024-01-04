@@ -1,2 +1,3 @@
-# SFin_React_Native
-creating MVP for budgeting app
+# testing Github
+testing working together
+
